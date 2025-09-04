@@ -1,4 +1,4 @@
-# Problem_485-Max_Consecutive_Ones
+# Problem 485: Max Consecutive Ones
 
 09/04/2025
 
